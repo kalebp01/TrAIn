@@ -5,7 +5,7 @@ import time
 import re
 
 # Set your API key
-openai.api_key = "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"
+openai.api_key = "***Available Upon Request***"
 
 app = Flask(__name__)
 
