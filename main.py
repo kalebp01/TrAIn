@@ -4,9 +4,7 @@ import openai
 import time
 import re
 
-# Set your API key
 openai.api_key = "***Available Upon Request***"
-
 app = Flask(__name__)
 
 # Dictionary of exercise images
