@@ -2,10 +2,10 @@
 Goal Based Training with AI
 
 Created by:
-Colton Grier
-Kaleb Paddie
-Samuel Simonsen 
-Karson Young
+Colton Grier - Mobile Application Interfacing
+Kaleb Paddie - AI Modelling & Engineering 
+Samuel Simonsen - Mobile App & HTML Form
+Karson Young - Diagrams, Design
 
 To run, simply open the entire folder in your IDE and run the main.py file.
 You will need the latest Python version and these libraries as well: pillow, openai, flask
@@ -17,12 +17,5 @@ pip install pillow, openai, flask
 **NOTE** The "static" folder should not be altered as Flask has a strict file structure!
 
 Your directory should flow as follows:
- TrAIn>
-      static>
-            jpg
-            jpg
-            jpg
-            jpg
-            jpg
-      main.py
-      README.md
+
+TrAIn primary folder with subfolder "static" and "main.py" alongside the Justinmind folder
