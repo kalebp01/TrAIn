@@ -18,4 +18,4 @@ pip install pillow, openai, flask
 
 Your directory should flow as follows:
 
-TrAIn primary folder with subfolder "static" and "main.py" alongside the Justinmind folder
+TrAIn primary folder with subfolder "static" and "main.py" alongside the "prototype" folder
