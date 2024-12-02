@@ -3,8 +3,11 @@ Goal Based Training with AI
 
 Created by:
 Colton Grier - Mobile Application Interfacing
+
 Kaleb Paddie - AI Modelling & Engineering 
+
 Samuel Simonsen - Mobile App & HTML Form
+
 Karson Young - Diagrams, Design
 
 To run, simply open the entire folder in your IDE and run the main.py file.
